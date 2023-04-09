@@ -1,0 +1,4 @@
+C:\Users\30706\Desktop\Project1\x64\Debug\Project1.exe
+C:\Users\30706\Desktop\飞机大战\x64\Debug\Project1.exe
+D:\自制小游戏\飞机大战\x64\Debug\Project1.exe
+C:\自制小游戏\飞机大战\x64\Debug\Project1.exe
